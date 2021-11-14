@@ -188,7 +188,7 @@
       }.call(this, n(9).Buffer));
     },
     473: function (e, t, n) {
-      e.exports = n.p + 'static/media/logo.49174c73.svg';
+      e.exports = n.p + 'static/media/logo.9de37014.svg';
     },
     490: function (e, t, n) {
       e.exports = n(789);
@@ -9258,7 +9258,7 @@
               userId: 'public_user_id',
               fullscreen: !1,
               autosize: !0,
-              datafeedUrl: 'https://serum-api.bonfida.com/tv',
+              datafeedUrl: 'https://history.riskswap.com/tv',
               studiesOverrides: {},
             },
             t = a.useRef(null),
@@ -11311,7 +11311,6 @@
                 },
               },
               o.a.createElement('img', { src: Ga.a, alt: '' }),
-              'SERUM',
             ),
             o.a.createElement(
               ja.a,
@@ -14156,4 +14155,4 @@
   },
   [[490, 1, 2]],
 ]);
-//# sourceMappingURL=main.651a374e.chunk.js.map
+//# sourceMappingURL=main.e96da2fe.chunk.js.map

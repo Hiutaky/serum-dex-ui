@@ -23,4 +23,5 @@ export default class BonfidaApi {
   }
 }
 
-export const BONFIDA_DATA_FEED = 'https://serum-api.bonfida.com/tv';
+export const BONFIDA_DATA_FEED = 'https://history.riskswap.com/tv';
+//ALTERNATIVE https://tv-backup-api.dexlab.space/v1
